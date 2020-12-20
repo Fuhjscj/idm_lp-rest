@@ -1,10 +1,8 @@
 {
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0,
     "meta": "-beta"
-  },
-  "description": "",
-  "update_log": []   
+  }
 }
